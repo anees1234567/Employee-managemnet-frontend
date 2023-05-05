@@ -21,12 +21,12 @@ function Profile() {
 
             <div className="text-center mt-3">
                 <h3>Max MIllor</h3>
-                <h4><i className='fa solid fa-envelope'></i>:-<span>max@gmail.com</span></h4>
-                <h4><i className='fa solid fa-mobile'></i>:-<span>989622441</span></h4>
-                <h4><i className='fa solid fa-venus-mars'></i>:-<span>male</span></h4>
-                <h4><i className='fa solid fa-location'></i>:-<span>kakkanad</span></h4>
+                <h4><i style={{color:"RGB(250 166 0)"}} className='fa solid fa-envelope'></i>:-<span>max@gmail.com</span></h4>
+                <h4><i style={{color:"RGB(20 173 221)"}} className='fa solid fa-mobile'></i>:-<span>989622441</span></h4>
+                <h4><i style={{color:"RGB(37 150 140)"}}className='fa solid fa-venus-mars'></i>:-<span>male</span></h4>
+                <h4><i style={{color:"RGB(14 198 17)"}} className='fa solid fa-location'></i>:-<span>kakkanad</span></h4>
 
-                <h4><i class="fa-solid fa-wave"></i>:-<span>Active</span></h4>
+                <h4><i style={{color:"RGB(206 7 39)"}} class="fa-solid fa-wave-square"></i>:-<span>Active</span></h4>
 
 
 
